@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm bercek71</h1>
+<h3 align="center">💻 Software Engineering Student • 🚀 Full-stack • Mobile • Data & DevOps Enthusiast</h3>
 
-<!--
-**Bercek71/Bercek71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧰 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,dotnet,spring,java,js,ts,python,androidstudio,postgresql,redis,nodejs,express,docker,kubernetes,graphql,html,css,tailwind,linux,bash,git,github,nginx,aws,gcp,azure,mysql,mongodb,sqlite,flask,django,fastapi,tensorflow,opencv,bootstrap,vscode,idea,postman,powershell,jenkins" />
+</p>
+
+> …and many more tools & frameworks I enjoy exploring!
+
+---
+
+### 🌱 Currently Learning & Building
+- **DevOps** pipelines & cloud infrastructure (CI/CD, IaC, monitoring)
+- ML / NLP models and data-driven apps  
+- Cross-platform mobile apps (**.NET MAUI / Android**)  
+- Modern web apps with **React / Next.js / Spring / .NET**  
+- …and whatever cool technology comes next 🚀
+
+---
+
+### 📫 Contact
+
+- [Email](mailto:bercek71@gmail.com)
+
+---
+
+⭐️ From [bercek71](https://github.com/bercek71)
